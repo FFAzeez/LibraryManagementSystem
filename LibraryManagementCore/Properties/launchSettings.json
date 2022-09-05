@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LibraryManagementCore": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
